@@ -1,0 +1,9 @@
+<suite name="Parrallel Testing">
+	<test name="My Test100" parallel="methods" thread-count="2">
+		<parameter name="Browser" value="chrome"></parameter>
+		<classes>
+			<class name="Testcases.ManageExpenseTestcase">
+			</class>
+		</classes>
+	</test>
+</suite>

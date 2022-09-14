@@ -1,0 +1,7 @@
+baseURL=https://groceryapp.uniqassosiates.com/admin/login
+chromeBrowserDriver=webdriver.chrome.driver
+chromeDriverPath=\\src\\main\\resources\\DriverFiles\\chromedriver.exe
+fireFoxBrowserDriver=webdriver.gecko.driver
+fireFoxBrowserDriverPath=\\src\\main\\resources\\DriverFiles\\geckodriver.exe
+edgeBrowserDriver=webdriver.edge.driver
+edgeDriverPath=\\src\\main\\resources\\DriverFiles\\msedgedriver.exe
