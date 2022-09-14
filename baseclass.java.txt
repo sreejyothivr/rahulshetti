@@ -46,7 +46,7 @@ public class BaseClass {
 		}
 
 		else if (browser.equals("firefox")) {
-			testBasic();
+			testBffffasic();
 			System.setProperty(prop.getProperty("fireFoxBrowserDriver"),
 					System.getProperty("user.dir") + prop.getProperty("fireFoxBrowserDriverPath"));
 
